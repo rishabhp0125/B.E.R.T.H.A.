@@ -18,3 +18,4 @@ For slower hardware, we reccomend modifying parameters such as iou-thres and max
 For more info on how B.E.R.T.H.A. was made, please see our devpost page, or our hackathon submission video
 
 From our devpost submission:
+https://devpost.com/software/b-e-r-t-h-a
